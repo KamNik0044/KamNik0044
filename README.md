@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I am Kamran👋
 
-I am Kamran, Graduated successfully from the Full Stack Development program at Code Your Future Organization. Quite excited about JavaScript, React and learning more about the ecosystem by exploring different frameworks and interested in software testing to ensure top-notch product quality.
+I got my start at McDonald’s and then transitioned into the tech world for fresh adventures. I enrolled in a 10-month coding bootcamp to enhance my skills and broaden my knowledge. Currently, I’m on the lookout for a company with a friendly workplace and opportunities for my career growth. I’m driven to continuously better myself. Beyond my job, I love watching and playing football, reading, and hanging out with friends.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KamNik0044)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #### Full-Stack Developer
 
-Skills: REACT / JS / HTML / CSS / SQL
+Skills: React / JavaScript / HTML / CSS / PostgreSQL / Node.js
 
-- 🔭 I’m currently working on Mcdonalds 
-- 🌱 I’m currently learning Testing 
+- 🔭 I’m currently working on Portfolio
+- 🌱 I’m currently learning AWS
 - 📫 How to reach me: kamnikeng@gmail.com 
 
 
