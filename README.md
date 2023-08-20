@@ -6,7 +6,6 @@ I am Kamran, Graduated successfully from the Full Stack Development program at C
 
 
 #### Full-Stack Developer
-I am Kamran, Graduated successfully from the Full Stack Development program at Code Your Future Organization. Quite excited about JavaScript, React and learning more about the ecosystem by exploring different frameworks and interested in software testing to ensure top-notch product quality.
 
 Skills: REACT / JS / HTML / CSS / SQL
 
