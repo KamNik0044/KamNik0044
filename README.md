@@ -9,7 +9,7 @@ I got my start at McDonald’s and then transitioned into the tech world for fre
 
 Skills: React / JavaScript / HTML / CSS / PostgreSQL / Node.js
 
-- 🔭 I’m currently working on Portfolio
+
 - 🌱 I’m currently learning AWS
 - 📫 How to reach me: kamnikeng@gmail.com 
 
